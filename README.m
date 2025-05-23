@@ -1,4 +1,4 @@
-# Playwright Drag-and-Drop File Upload Test (Dropzone.js)
+# Playwright File Upload and Drag-and-Drop File Upload Test.
 
 This project automates file uploads using **Playwright** and simulates drag-and-drop interactions with a **Dropzone.js** interface, using the **Page Object Model (POM)** structure.
 
